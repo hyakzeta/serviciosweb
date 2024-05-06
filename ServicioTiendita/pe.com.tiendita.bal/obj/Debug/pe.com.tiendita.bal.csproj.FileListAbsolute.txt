@@ -1,0 +1,11 @@
+C:\Users\sacat\OneDrive\Escritorio\DA 2\NET\Laboratorio1\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.csproj.AssemblyReference.cache
+C:\Users\sacat\OneDrive\Escritorio\DA 2\NET\Laboratorio1\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.csproj.CoreCompileInputs.cache
+C:\Users\sacat\OneDrive\Escritorio\DA 2\NET\Laboratorio1\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bal.dll
+C:\Users\sacat\OneDrive\Escritorio\DA 2\NET\Laboratorio1\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bal.pdb
+C:\Users\sacat\OneDrive\Escritorio\DA 2\NET\Laboratorio1\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bo.dll
+C:\Users\sacat\OneDrive\Escritorio\DA 2\NET\Laboratorio1\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.dal.dll
+C:\Users\sacat\OneDrive\Escritorio\DA 2\NET\Laboratorio1\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bo.pdb
+C:\Users\sacat\OneDrive\Escritorio\DA 2\NET\Laboratorio1\ServicioTiendita\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.dal.pdb
+C:\Users\sacat\OneDrive\Escritorio\DA 2\NET\Laboratorio1\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.csproj.CopyComplete
+C:\Users\sacat\OneDrive\Escritorio\DA 2\NET\Laboratorio1\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.dll
+C:\Users\sacat\OneDrive\Escritorio\DA 2\NET\Laboratorio1\ServicioTiendita\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.pdb
